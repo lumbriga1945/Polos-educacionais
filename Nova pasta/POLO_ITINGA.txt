@@ -1,0 +1,238 @@
+﻿Centro de Atenção Integral à Criança e ao Adolescente - Caic
+Segmento: Fundamental I
+Inep: 29359350
+Endereço: R. Prof. Teócrito Batista, s/nº - Jd. Picuaia - Itinga
+Cep: 42721-810
+Diretora: Roquelina Teixeira Cerqueira
+Vice-diretora Matutino: Arli de Souza Santos
+Coordenadora: Patrícia Reis
+
+Creche Municipal Deputado Paulo Jackson
+Segmento: Pré-Escola
+Inep: 29443261
+Endereço: R. Prof. Teócrito Batista, s/nº - Jd. Picuaia - Itinga
+Cep: 42721810
+Telefone 1: (71) 3288-8718
+Diretora: Maria Auxiliadora de Souza Freitas
+
+Escola Municipal Cidade Nova
+Segmento: Fundamental I
+Inep: 29178690
+Endereço: R. Floriano Peixoto, s/nº - Itinga
+Cep: 42739-040
+Telefone 1: (71) 3251-8131
+Telefone 2: (71) 3377-5706
+Diretora: Rosana dos Santos
+Vice-diretora Matutino/Vespertino: Alba Fernanda Santana da Silva        
+Coordenador: Luciano Soares
+
+Escola Municipal do Loteamento Santa Júlia
+Segmento: Fundamental II
+Inep: 29404207
+Endereço: R. Jovino N. Pereira, s/nº - Itinga
+Cep: 42739-230
+Telefone 1: (71) 3378-8549
+Telefone 2: (71) 3288-3587
+Diretora: Luzinete Sales Lima
+Vice-diretora Matutino/Vespertino: Rosemar Tatagiba
+Coordenadora: Janaina Oliveira
+
+Escola Municipal Dois de Julho
+Segmento: Fundamental II
+Inep: 29432430
+Endereço: R. São Cristóvão, s/nº - Itinga
+Cep: 42739-005
+Telefone 1: (71) 3251-8114
+Diretor: Rosivaldo Ribeiro Costa
+
+Escola Municipal Mário Covas
+Segmento: Fundamental I
+Inep: 29414881
+Endereço: Lot. Prq. São Paulo, s/nº - Itinga
+Cep: 42740-490
+Telefone 1: (71) 3251-8115
+Telefone 2: (71) 3365-1529
+Diretora: Fábia Santana de Medeiros Gonzaga
+
+Escola Municipal Ismael Ornelas Farias
+Segmento: Pré-escola
+Inep: 29178738
+Endereço: Lot. Jd. Tarumã, s/nº - Itinga
+Cep: 42739-600
+Diretora: Rosimeiry Pimentel da Silva
+
+Escola Municipal Jacira Fernandes Mendes
+Segmento: Fundamental I
+Inep: 29178746
+Endereço: R. Mulungu, s/nº - Lot. Pq. São Paulo - Itinga 
+Cep: 42741-190
+Telefone 1: (71) 3251-8138
+Diretor: Bonifácio Araújo Guimarães
+Vice-diretora Vespertino: Andréia de Jesus Rodrigues 
+Vice-diretora Matutino: Haidêe Cardoso Amorim
+Coordenadora: Sara Vaz de Queiroz
+
+Escola Municipal Jardim Talismã
+Segmento: Fundamental I
+Inep: 29385563
+Endereço: R. José Venful, s/nº - Lot. Jardim Talismã - Itinga
+Cep: 42740-065
+Telefone 1: (71) 3251-8117
+Diretora: Cristiene Santana Matos
+Vice-diretora Matutino/Vespertino: Sandra Ribeiro Santana
+Coordenadora: Ana Paula Santos Borges
+
+Escola Municipal Paulo Freire
+Segmento: Fundamental I
+Inep: 29414865
+Endereço: R. Santa Cecilia, s/nº - Jd. Independência - Itinga
+Cep: 42738-795
+Telefone 1: 3251-8118
+Diretora: Andrea Almeida Dos Santos
+Vice-diretora Matutino/Vespertino: Márcia Leandra Damasceno
+Coordenadora: Ladjane Alves Sousa
+
+Escola Municipal Santa Rita
+Segmento: Fundamental I
+Inep: 29342104
+Endereço: Conj. Prq. Santa Rita, s/nº - Itinga
+Cep: 42739-745
+Telefone 1: (71) 3377-5709
+Telefone 2: (71) 3365-3929
+Diretora: Margarida Cintra Lima
+Vice-diretora Matutino: Mackssaiala Bezerra Gagliano da Silva
+Vice-diretora Vespertino: Rita Brandão de Cerqueira
+Coordenadora: Nataly Farias Góes
+
+Escola Municipal Senhora Valentina
+Segmento: Fundamental I
+Inep: 29178436
+Endereço: R. São Cristóvão, nº 48 - Itinga
+Cep: 42739-005
+Telefone 1: (71) 3251-8116
+Telefone 2: (71) 3251-5124
+Diretora: Claudineia dos Santos Nascimento
+Vice-diretora Matutino/Vespertino: Maria Eliana Pereira Brito
+Coordenadora: Ana Rosa dos Santos
+
+Escola Municipal Solange Coelho
+Segmento: Fundamental II
+Inep: 29178800
+Endereço: R. Nossa Senhora Aparecida, s/nº - Itinga
+Cep: 42739-195
+Diretor: Nélson Hanaque Esquivel Filho
+
+Escola Municipal Vereador José Ramos
+Segmento: Fundamental I
+Inep: 29432855
+Endereço: R. Israel Santos Conceição - Qd. 5 - Lt. 11 A, n° 13 - Itinga
+Cep: 42739-250
+Telefone 1: (71) 3251-8113
+Diretora: Doralice Ferreira de Jesus
+Vice-diretora Matutino/Vespertino: Simone Gonzaga de Matos Araújo
+Coordenadora: Sônia Cristina Fadigas Machado
+
+Escola Municipal Vovó Ciça
+Segmento: Fundamental I
+Inep: 29178959
+Endereço: R. do Paço - Lot. Jd. Pérola Negra - Qd 03 – Lts. 67/68 - Itinga
+Cep: 42738-215
+Diretora: Patrícia Ferreira Santos Guedes
+Vice-diretora Matutino/Vespertino: Oraildes dos Santos Suzart
+Coordenadora: Wedja Calista
+ 
+Instituto de Educação Profissionalizante Eurides Sant'Anna
+Segmento: Fundamental II
+Inep: 29179084
+Endereço: R. São Cristóvão, s/nº - Itinga
+Cep: 42739-005
+Telefone 1: (71) 3251-8132
+Telefone 2: (71) 3377-5201
+Telefone 3: (71) 3377-3871
+Diretora: Ana Rita Sousa Pires
+
+Centro Educacional Professor Emerson Palmeira
+Segmento: Fundamental I
+Inep: 29369096
+Endereço: R. Nossa Senhora das Dores - Lot. Prq. São Paulo – Qd. 16 – Lt. 64 - Itinga
+Cep: 42741110
+Telefone 1: (71) 3365-1440
+Diretora: Nilza dos Santos Almeida
+Vice-Diretora: Rosa Maria Almeida Simões
+Coordenadora: Lucy Meire
+ 
+Escola Fundamental São Judas Tadeu
+Segmento: Fundamental I
+Inep: 29178592
+Endereço: R. Elienai Oliveira - Lot. São Judas Tadeu - Qd. E – Lt. 29 - Itinga
+Cep: 42738-250
+Telefone 1: (71) 3378-0901
+Telefone 2: (71) 3288-0178
+Diretora: Ana Tereza Cerqueira Passos
+Coordenadora: Ana Cleide
+
+Centro Educacional Olavina Calazans
+Segmento: Fundamental II
+Inep: 29437490
+Endereço: Lot. Santa Júlia, Qd G. Lotes 18/19 - Itinga
+Cep: 42738-605
+Telefone 1: (71) 3378-6057
+Telefone 2: (71) 3378-4570
+Diretora: Verashyrle Maria da Silva Ferreira
+
+Escola Municipal Pato Donald
+Segmento: Fundamental I
+Inep: 29369002
+Endereço: R. João de Souza Araújo, Lot. Jd. Centenário, Qd J, Lote 22, Itinga
+Cep: 42739-215
+Telefone 1: (71) 3251-2114
+Telefone 2: (71) 3377-1347
+Telefone 3: (71) 3252-2336
+Diretora: Lindinalva Maria da Conceição de Souza
+Vice-diretora Matutino/Vespertino: Maria Auxiliadora dos Santos
+Coordenadora: Janeide M. Borges Oliveira
+
+Escola Municipal Miguel Arraes
+Segmento: Fundamental II
+Inep: 29451817
+Endereço: R. Doutor Mauricio, s/nº - Lot. Jd. Taiti - Itinga
+Cep: 42740-580
+Diretora: Joice Bonfim dos Santos
+ 
+Creche Maria Ferreira
+Segmento: Creche
+Inep: 29436591
+Endereço: R. Anselmo Paranhos – Lot. Jd. Santa Júlia - Qd H – Lt. 03 -Itinga
+Cep: 42738605
+Telefone 1: (71) 3378-1291
+Diretora: Antônia Emídio da Silva de Jesus
+
+Creche Santa Rita
+Segmento: Creche
+Inep: 29483204
+Endereço: Av. Santa Rita - Conj. Prq. Santa Rita - Cam. 17 - Itinga
+Cep: 42740-040
+Telefone 1: (71) 3252-7646
+Telefone 2: (71) 3377-0222
+Diretora: Cristiane Rosária da Silva
+
+Centro de Educação Infantil Municipal Porto Feliz
+Segmento: Creche
+Inep: 
+Endereço: Av. Santa Rita - Conj. Prq. Santa Rita - Itinga
+Cep: 42740-040
+ 
+Creche e Escola Amigos de Deus no Brasil
+Segmento: Creche
+Inep: 
+Endereço: R. Jose Venful - Itinga
+Cep: 42740-065
+Diretora: Milca Sousa Lobo
+ 
+Centro Comunitário da Criança e Adolescente São Vicente de Paula
+Segmento: Pré-Escola
+Inep: 29507006
+Endereço: Lot. Jd. Metrópole - Qd J - Lt 12 - Itinga
+Cep: 41502-620
+Telefone 1: (71) 3252-1428
+Diretora: Rosângela Nicácia Fraga

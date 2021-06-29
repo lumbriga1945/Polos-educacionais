@@ -1,0 +1,24 @@
+{
+  "escolas_polos": [
+    {
+      "sigla": "Areia_Branca",
+      "nome": "Escola Municipal Barro Duro",
+      "info": [
+        "Inep: 29178673",
+        "Endereço: Rua Barro Duro - Caminho 15 ",
+        "Cep: 41301-110",
+        "Telefone: (71) 3301-1830",
+        "Diretora: Cacilda Alves Silva Pereira",
+        "Vice-diretora: Magali Figueredo dos Marques",
+        "Vice-diretora: Alda Maria Guimarães",
+        "Coordenadora: Herondina Costa"
+      ],
+      "Segmento": [
+        "Fundamental I",
+        "Fundamental II",
+        "Eja",
+        "Projetos Especiais"
+      ]
+    }
+  ]
+}

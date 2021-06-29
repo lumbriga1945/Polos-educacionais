@@ -1,0 +1,286 @@
+{
+	"escolas_polo": [
+		{
+			"sigla": "Areia_Branca",
+			"nome": "﻿Escola Municipal Barro Duro
+",
+			"info": [
+				"Segmento: F.I /F. II / Eja / P.E
+",
+				"Inep: 29178673
+",
+				"Endereço: Rua Barro Duro - Caminho 15 
+",
+				"Cep: 41301-110
+",
+				"Telefone: (71) 3301-1830
+",
+				"Diretora: Cacilda Alves Silva Pereira
+",
+				"Vice-diretora: Magali Figueredo dos Marques
+",
+				"Vice-diretora: Alda Maria Guimarães
+",
+				"Coordenadora: Herondina Costa
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Municipal de Capiarara
+",
+			"info": [
+				"Segmento: F.I / P.E
+",
+				"Inep: 29178509
+",
+				"Endereço: R. José Firmino de Oliveira
+",
+				"Cep: 42732-890
+",
+				"Telefone 1: (71) 3291-8832
+",
+				"Telefone 2: (71) 3291-8205
+",
+				"Diretora: Andréa Jesus dos Santos Vieira
+",
+				"Vice-Diretora: Mônica Maria S. Pereira
+",
+				"Coordenadora: Dejanete dos Santos Sacramento
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Municipal Capitulino dos Santos
+",
+			"info": [
+				"Segmento: Fundamental I
+",
+				"Inep: 29178681
+",
+				"Endereço: Av. Progresso - Jambeiro
+",
+				"Cep: 42728-620
+",
+				"Telefone: (71) 3291-4261
+",
+				"Diretora: Maria Everaldina Rocha Lopes
+",
+				"Vice-diretora Vespertino: Naita Lisboa Lopes
+",
+				"Vice-diretora Matutino: Mirtza Costa do Nascimento
+",
+				"Coordenadora: Naita Lisboa Lopes
+",
+				"Escola Municipal Edvaldo Boaventura
+",
+				"Segmento: F.II / Eja
+",
+				"Inep: 29178339
+",
+				"Endereço: R. Capiarara, s/nº - Areia Branca
+",
+				"Cep: 42733-470
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Municipal Esfinge
+",
+			"info": [
+				"Segmento: Fundamental I
+",
+				"Inep: 29178266
+",
+				"Endereço: R. Capiarara, s/nº - Areia Branca
+",
+				"Cep: 42733-470
+",
+				"Diretora: Izes Carla Costa Dos Santos
+",
+				"Vice-diretor Matutino: Valciney de Souza Silva
+",
+				"Vice-diretora Vespertino: Antônia de Lira Freitas Brandão
+",
+				"Coordenadora: Lúcia Sacramento
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Municipal Floripes Farias
+",
+			"info": [
+				"Segmento: Pré-escola
+",
+				"Inep: 29178371
+",
+				"Endereço: R. Principal da Cachoeirinha - Jambeiro
+",
+				"Cep: 42728-610
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Municipal Tenente Gustavo Dos Santos
+",
+			"info": [
+				"Segmento: F.I / Eja
+",
+				"Inep: 29178819
+",
+				"Endereço: R. Direta do Capelão, n° 86 - Areia Branca
+",
+				"Cep: 42700-998
+",
+				"Diretora: Rosa Maria dos Santos
+",
+				"Vice-diretora: Cleide de Melo Souza 
+",
+				"Coordenadora: Veraci Sousa Sales
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Municipal Novo Tempo
+",
+			"info": [
+				"Segmento: Pré-escola
+",
+				"Inep: 29437466
+",
+				"Endereço: 1ª Travessa 2 de Julho - Jardim Iguaçu
+",
+				"Cep: 42733-560
+",
+				"Diretora: Ester Santos Romão Ferreira
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Comunitária de Areia Branca
+",
+			"info": [
+				"Segmento: F.I / P.E
+",
+				"Inep: 29178517
+",
+				"Endereço: R. Capim Santo - Via Parafuso - Ciamar
+",
+				"Cep: 42734-410
+",
+				"Telefone 1: (71) 3291-8974
+",
+				"Telefone 2: 
+",
+				"Escola Comunitária de Areia Branca
+",
+				"Diretora: Josefa Rosa de Almeida
+",
+				"Vice-diretora: Luiza dos Santos Moura
+",
+				"Coordenadora: Jaiane Estrela
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola José Edvaldo Ferreira
+",
+			"info": [
+				"Segmento: F.I / P.E
+",
+				"Inep: 29178614
+",
+				"Endereço: Estrada da Barragem Ipitanga - Cassange
+",
+				"Cep: 41410-045
+",
+				"Telefone 1: (71) 3365-0265
+",
+				"Diretora: Altamira de Jesus Santos
+",
+				"Vice-diretora: Angêla Nunes da Silva
+",
+				"Coordenadora: Idelvan dos Santos Ramos
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Modelo Educativo
+",
+			"info": [
+				"Segmento: Pré-escola
+",
+				"Inep: 29432421
+",
+				"Endereço: R. Direta do Capelão, nº 111
+",
+				"Cep: 41412-010
+",
+				"Telefone 1: (71) 3291-8091
+",
+				"Diretora:  Elisabete Rebello Neves
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Centro de Educação Infantil Areia Branca
+",
+			"info": [
+				"Segmento: Creche
+",
+				"Inep: 29997798
+",
+				"Endereço: Av. Progresso, 448 - Cj. Residencial Lauro de Freitas - Setor C - Capiarara
+",
+				"Cep: 42728-620
+",
+				"Diretora: Rosangela Nascimento Silva de Jesus
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Favo de Mel
+",
+			"info": [
+				"Segmento: P.E / Creche
+",
+				"Inep: 29997780
+",
+				"Endereço: R. Direta do Capelão, nº 52 - Capelão
+",
+				"Cep: 41412-010
+",
+				"Telefone 1: (71) 3291-5003
+",
+				"Diretora: Roseane Assunção dos Santos Reis
+",
+			]
+		},
+		{
+			"sigla": "Areia_Branca",
+			"nome": "Escola Amauri Siqueira Montalvão
+",
+			"info": [
+				"Segmento: Fundamental II
+",
+				"Inep: 29453666
+",
+				"Endereço: Av. Progresso - Jambeiro
+",
+				"Cep: 42728-620
+",
+				"Diretora: Thânia Maria de França Coutinho",
+			]
+		}
+	]
+}

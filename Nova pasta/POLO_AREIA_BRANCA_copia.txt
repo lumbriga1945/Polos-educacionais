@@ -1,0 +1,22 @@
+﻿while( (fgets(linha, sizeof(linha), arq1))!=NULL ){
+		retorno = strcmp(linha, "\n");
+		if(retorno == 0){
+			fprintf(arq2, "\t\t\t%csigla%c: Areia_Branca\n", 34,34);		
+		}else{
+				switch (i){
+				   case 1:
+				     	fprintf(arq2, "\t\t\t%cnome%c: %c%s%c,\n", 34 ,34, 34, linha, 34);
+						fprintf(arq2, "\t\t\t%cinfo%c: [\n", 34 ,34);//[
+				   break;
+				
+				   case 2:
+				    	fprintf(arq2, "\t\t\t\t%c%s%c,\n", 34, linha, 34);
+				   break;
+				   
+				   default:
+				   break;
+				}		
+				i++;
+		}
+		//fprintf(arq2, "%s", linha);	
+	}

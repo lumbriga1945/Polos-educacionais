@@ -1,0 +1,154 @@
+﻿Centro Educacional Municipal Fênix
+Segmento: Fundamental II
+Inep: 29385628
+Endereço: R. São José, S/Nº - Centro
+Cep: 42703-740
+Telefone: (71) 3378-8542
+Diretora: Ivonete Santana Do Espírito Santo
+Vice-diretora - Matutino: Simone Maria Sousa Matos
+Vice-diretora - Vespertino: Viviane Da Silva Mota
+Coordenadora: Jandira Silva Santos
+
+Escola Municipal Ana Lúcia Magalhães
+Segmento: Fundamental II
+Inep: 29178665
+Endereço: R. Mário Epinghaus, s/nº - Centro
+Cep: 42703-640
+Telefone 1: (71) 3378-8540
+Telefone 2: (71) 3378-1101
+Diretora: Vilma de Deus
+
+Escola Municipal da Vila Praiana
+Segmento: Fundamental I
+Inep: 29178711
+Endereço: Alto da Vila Praiana, s/nº - Vila Praiana
+Cep: 42705-370
+Telefone 1: (71) 3378-8544
+Telefone 2: (71) 3378-4004
+Diretora: Iole Moreira De Andrade Junqueira
+Vice-Diretora: Nyssia Maria Ceo Santos
+Coordenadora: Maria Jane Souza Dos Santos
+
+Escola Municipal Dom Avelar Brandão Vilela
+Segmento: Fundamental I
+Inep: 29178703
+Endereço: R. São Mateus, nº 46 - Vila Praiana
+Cep: 42704-650
+Telefone 1: (71) 3508-6559
+Diretora: Adriana Carla S. de Sousa
+Vice-Diretora: Termônia Conceição Da Cruz
+Vice-Diretora: Jaciene Batista Cerqueira
+Coordenadora: Zélia Dos Santos Santana Cerqueira
+
+Escola Municipal Enock Amaral
+Segmento: Fundamental I
+Inep: 29414857
+Endereço: R. dos Vereadores, s/nº - Jockey Clube
+Cep: 42702-230
+Telefone 1: (71) 3378-8545
+Telefone 2: (71) 3288-7198
+Diretora: Reijane Silva De Oliveira
+Vice-Diretora: Eliana Souza Santos Silva
+Coordenadora: Vânia Pessoa
+
+Escola Municipal Gregório Pinto de Almeida
+Segmento: Fundamental II
+Inep: 29404150
+Endereço: Av. Vitória da Conquista, s/nº - Vila Praiana
+Cep: 42706-370
+Telefone 1: (71) 3378-8543
+Diretora: Maria do Socorro Ferreira da Costa
+
+Escola Municipal Itamar Oliveira Rodrigues
+Segmento: Fundamental II
+Inep: 29178630
+Endereço: Av. Brigadeiro Alberto Costa Matos, s/nº - Araqui
+Cep: 42702-010
+Telefone 1: (71) 3369-9220
+Telefone 2: (71) 3379-4803
+Diretora: Aidilma Ornelas De Barros
+
+Escola Municipal José dos Santos Paranhos
+Segmento: Fundamental I
+Inep: 29178754
+Endereço: R.  São Francisco s/nº - Pitangueiras
+Cep: 42701-680
+Telefone 1: (71) 3369-9201
+Telefone 2: (71) 3379-2900
+Diretora: Marinalva Jesus Franco (Marcia Souza Luz)
+Vice-diretor: Iuri Sidarta Sales Costa
+Vice-diretor: Reinaldo Daniel Pataro
+Coordenadora: Rosana Damacena
+
+Escola Municipal Lagoa dos Patos
+Segmento: Fundamental I
+Inep: 29178541
+Endereço: R.  São Miguel, nº 48
+Cep: 42706-560
+Telefone 1: 3369-9200
+Telefone 2: 
+Diretor: Edcarlos Oliveira De Jesus
+Vice-diretora: Luciene Velanes Borges
+Coordenadora: Vanessa Gnandt
+
+Escolinha Infância Feliz
+Segmento: Pré-Escola
+Inep: 29179009
+Endereço: 1ª Travessa São Jorge, nº 13 - Centro
+Cep: 42703-590
+Telefone 1: (71) 3378-7481
+Diretora: Dinalva Souza Pereira Oliveira
+
+Creche Vovó Ana
+Segmento: Creche
+Inep: 29755620
+Endereço: R. Saketê, n° 36 - Vila Praiana
+Cep: 42704-610
+Diretora: Rita de Cassia Sales dos Anjos
+
+Escola Nossa Senhora de Lourdes
+Segmento: Fundamental II
+Inep: 29438110
+Endereço: Pça. João Thiago dos Santos, nº 35 - Centro
+Cep: 42702-710
+Telefone 1: (71) 3287-3155
+Diretora: Estemar Passos Souza Pereira
+
+Educandário Mariza Pitanga - Educ. Especial
+Segmento: Fundamental I
+Inep: 29452848
+Endereço: Av. Praia De Itapuã, s/n° - Vilas do Altântico
+Cep: 42707-650
+Telefone 1: (71) 3508-1299
+Diretora: Mariza Pereira Gonçalves
+Vice-Diretora: Andrea de Cássia P. Gonçalves
+Coordenadora: Alessandra Pontes
+
+Escola Municipal Ipitanga
+Segmento: Fundamental II
+Inep: 29449324
+Endereço: Av. Amarilio Thiago dos Santos - Centro
+Cep: 42703-750
+Diretora: Arleânia Valderez Rodrigues
+ 
+Escola Creche Espaço Kids
+Segmento: Creche
+Inep: 29452694
+Endereço: Av. Amarilio Thiago Dos Santos, n° 144 - Centro
+Cep: 42703-750
+Diretora: Léia Oliveira Negrão Brandão
+ 
+Creche Escola Novo Mundo
+Segmento: Creche
+Inep: 29456673
+Endereço: R. Nilo Peçanha, n° 44 - Vila Mar (Próx. à antiga biblioteca)
+Cep: 42705-670
+Telefone 1: (71) 3024-6368
+Diretora: Valdinéia Lopes da Silva
+
+Creche Municipal Vilas do Atlântico
+Segmento: Creche
+Inep: 29459397
+Endereço: Av. Praia de Tramandaí - Qd. E - Lote 02 - Vilas do Atlântico
+Cep: 42707-010
+Diretora: Gilmara Noronha Teixeira
