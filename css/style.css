@@ -1,0 +1,95 @@
+.container-Select{
+    width: 100%;
+    margin: auto;
+    overflow: hidden;
+    background: #ffffff;
+    margin-top: 20px;
+}
+
+.container-Select ul{
+    padding: 0px;
+    margin: 0px;
+}
+
+.container-Select ul li{
+    float:left;
+    list-style: none;
+    width: auto;
+    height: auto;
+    background: #ffffff;
+    border:2px solid rgb(56, 162, 182);
+    box-sizing: border-box;
+    position: relative
+}
+.container-Select ul li:hover{
+    opacity: 0.8;
+}
+
+.container-Select ul li .bottom{
+    width: auto;
+    height: auto;
+    line-height: 50px;
+    background: rgb(130, 97, 160);
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+
+@media screen and (max-width:1250px){
+    .container-Select ul li{
+        width:100%;
+        margin-left: 0px;
+        font-size: 20px;
+    }
+}
+
+tr, th {
+  padding: .7em;
+  margin: 0;
+  border: 1px solid #ccc;*/
+  text-align: center;
+}
+tr{
+  font-weight:bold;
+  background-color: #EEE;*/
+}
+
+table{
+  width: 100%;
+  margin-bottom : .5em;
+  table-layout: fixed;
+  text-align: center;
+}
+
+input{
+    border: none;
+    color:white;
+}
+
+.container-img:after{
+	content:"";
+	display:table;
+	clear:both
+}
+
+.map{
+    max-width:100%;
+    top:10%;
+    left:20%;
+    position: relative;
+}
+
+img{
+	vertical-align:middle
+}
+
+#Territorio{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#divTerritorio{
+	font-weight: bold;
+}

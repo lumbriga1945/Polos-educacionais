@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br" >
+<head>
+    <meta charset="UTF-8">
+    <title>Territórios Educativos</title>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/style.css">
+	<script src="JavaScript/funcoes.js"></script>
+    <script
+        src="https://code.jquery.com/jquery-3.4.1.js"
+        integrity="sha256-WpOohJOqMqqyKL9FccASB9O0KwACQJpFTUBLTYOVvVU="
+        crossorigin="anonymous">
+    </script>
+</head>
+<body>
+	<div class="container">
+	    <select class="form-control" id="Territorio" onchange="mudaTerritorio();">
+			<option>Selecionar Territorio</option>
+			<option>Areia Branca</option>
+			<option>Centro</option>
+			<option>Itinga</option>
+			<option>Portão</option>
+			<option>Vida Nova</option>
+		</select>
+		<div class="container-Select">
+			<ul>
+				<li> <div class="bottom" id="divTerritorio">Territórios Educativos</div>
+					<div class="container-Img">
+						<img src="Imagens\Gray_map.png" class="map" id="mapa" style="width:100%; max-width:60%;margin-top:auto;margin-left: auto">
+					</div>
+					<table id="datagrid" class="table table-borderless"></table>
+					<table id="prox_ante" border="1">
+						<tr>
+							<td><a class="prev" href="javascript:anterior()">Anterior</a></td>
+							<td><a class="next" href="javascript:proximo()">Próximo</a></td>
+						</tr>
+					</table>
+				</li>            
+			</ul>
+		</div>
+	</div>
+<form name="form">
+    <input type=text name="texto">
+</form>
+</body>
+</html>
